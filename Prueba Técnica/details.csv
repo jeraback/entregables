@@ -1,0 +1,8 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"ID","NUMBER(20,0)","No","","1"
+"SKU","VARCHAR2(80)","Yes","",""
+"FERT","VARCHAR2(80)","Yes","",""
+"MODELO","VARCHAR2(40)","Yes","",""
+"TIPO","VARCHAR2(40)","Yes","",""
+"NUM_SERIE","VARCHAR2(60)","Yes","",""
+"FECHA","DATE","Yes","",""
